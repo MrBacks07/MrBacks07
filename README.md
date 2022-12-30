@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Kamil
+### 👋 Hi, I’m Kamil
+
+I'm young student who's interested into coding, I love to tells computer what it need to do.
+
 - 👀 I’m interested in backend languages mainly C#, Python but i do not have problems with basic C++
 - 🌱 My first programming languge is C#.
 - 👦 I am learning this stuff since i was 13.
