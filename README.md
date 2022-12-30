@@ -5,7 +5,7 @@ I'm young student who's interested into coding, I love to tells computer what it
 - 👀 I’m interested in backend languages mainly C#, Python but i don't have problems with basic C++
 - 🌱 My first programming language is C#.
 - 👦 I'm learning this stuff since i was 13.
-- 🚀 I like to learn new things, and just be better then i was yesterday.
+- 🚀 I like to learn new things and just be better then i was yesterday.
 - 📫 How to reach me - You can invite me on discord (MrBacks07#0089) or send me email (MrBacks07@gmail.com) 
 
 <!---
