@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kamil
 
-I'm young student who's interested into coding, I love to tells computer what it need to do. My life's motto is to be better than yesterday.
+I'm young student who's interested into coding, I love to tell computer what it need to do. My life's motto is to be better than yesterday.
 
 - 👀 I’m interested in backend languages mainly C#, Python but i don't have problems with basic C++
 - 🌱 My first programming language is C#.
