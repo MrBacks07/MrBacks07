@@ -6,7 +6,7 @@ I'm young student who's interested into coding, I love to tells computer what it
 - 🌱 My first programming language is C#.
 - 👦 I'm learning this stuff since i was 13.
 - 🚀 I like to learn new things and just be better then i was yesterday.
-- 📫 How to reach me? You can invite me on discord (MrBacks07#0089) or send me email (MrBacks07@gmail.com) 
+- 📫 How to reach me? You can invite me on discord (MrBacks07#0089) or send me an email (MrBacks07@gmail.com) 
 
 <!---
 MrBacks07/MrBacks07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
